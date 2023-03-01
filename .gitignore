@@ -1,0 +1,10 @@
+node_modules
+src/
+.env
+vendor/
+gulpfile.js
+package.json
+package-lock.json
+composer.lock
+.DS_Store
+bienesraices_crud.sql
